@@ -3971,6 +3971,10 @@
     {
       "name": "macaulay2",
       "fileExtensions": ["m2"]
+    },
+    {
+      "name": "typescript",
+      "fileExtensions": ["ts"]
     }
   ]
 }
