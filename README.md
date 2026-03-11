@@ -8,7 +8,7 @@
 
 <p align="center"><em>Material Design icons for Better Hub</em></p>
 
-
+This theme was forked from the origial Material Icon Themes Github Repository, modified to work on Better Hub!
 
 ---
 
