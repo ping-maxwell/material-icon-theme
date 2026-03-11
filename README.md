@@ -6,9 +6,7 @@
 
 <h1 align="center">Material Icon Theme</h1>
 
-<p align="center"><em>Material Design icons for Better Hub</em></p>
-
-This theme was forked from the origial Material Icon Themes Github Repository, modified to work on Better Hub!
+<p align="center"><em>This theme was forked from the origial Material Icon Themes Github Repository, modified to work on Better Hub!</em></p>
 
 ---
 
