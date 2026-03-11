@@ -3,7 +3,7 @@
   "description": "Material Design Icons for Better Hub. This is a fork of the VS Code Material Icon Theme extension.",
   "version": "1.0.0",
   "type": "icon-theme",
-  "main": "material-icons.json",
+  "main": "better-hub-icons.json",
   "icon": "logo.png",
   "license": "MIT"
 }
