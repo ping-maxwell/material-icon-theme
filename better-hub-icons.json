@@ -995,9 +995,6 @@
       "fileExtensions": ["lbx"]
     },
     {
-      "name": "latexmk"
-    },
-    {
       "name": "powerpoint",
       "fileExtensions": [
         "pptx",
