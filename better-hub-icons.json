@@ -1676,9 +1676,6 @@
       "fileExtensions": ["pcss", "sss"]
     },
     {
-      "name": "posthtml"
-    },
-    {
       "name": "todo",
       "fileExtensions": ["todo"],
       "fileNames": ["todo.md", "todos.md"]
@@ -1733,9 +1730,6 @@
     {
       "name": "rstack",
       "fileNames": ["rspress.config.ts", "rslint.json", "rslint.jsonc"]
-    },
-    {
-      "name": "lynx"
     },
     {
       "name": "ionic",
@@ -2752,9 +2746,6 @@
       "fileExtensions": ["p", "pro", "pl"]
     },
     {
-      "name": "husky"
-    },
-    {
       "name": "coconut",
       "fileExtensions": ["coco"]
     },
@@ -3030,15 +3021,6 @@
       "fileExtensions": ["pipeline"]
     },
     {
-      "name": "vite"
-    },
-    {
-      "name": "vitest"
-    },
-    {
-      "name": "velite"
-    },
-    {
       "name": "opa",
       "fileExtensions": ["rego"]
     },
@@ -3094,9 +3076,6 @@
     {
       "name": "sentry",
       "fileNames": [".sentryclirc", ".env.sentry-build-plugin"]
-    },
-    {
-      "name": "contentlayer"
     },
     {
       "name": "phpunit",
@@ -3309,9 +3288,6 @@
       ]
     },
     {
-      "name": "svgr"
-    },
-    {
       "name": "rome",
       "fileNames": ["rome.json"]
     },
@@ -3453,9 +3429,6 @@
       ]
     },
     {
-      "name": "craco"
-    },
-    {
       "name": "gamemaker",
       "fileExtensions": ["gml", "yy", "yyp", "yyz"]
     },
@@ -3526,9 +3499,6 @@
       "fileExtensions": ["mmd", "mermaid"]
     },
     {
-      "name": "syncpack"
-    },
-    {
       "name": "mojo",
       "fileExtensions": ["mojo", "🔥"]
     },
@@ -3566,14 +3536,8 @@
       "fileExtensions": ["rbxmk.lua", "rbxmk.luau"]
     },
     {
-      "name": "panda"
-    },
-    {
       "name": "biome",
       "fileNames": ["biome.json", "biome.jsonc", ".biome.json", ".biome.jsonc"]
-    },
-    {
-      "name": "esbuild"
     },
     {
       "name": "spwn",
@@ -3612,9 +3576,6 @@
     {
       "name": "lottie",
       "fileExtensions": ["lottie"]
-    },
-    {
-      "name": "puppeteer"
     },
     {
       "name": "apps-script",
@@ -3718,9 +3679,6 @@
       "fileExtensions": ["ц"]
     },
     {
-      "name": "trigger"
-    },
-    {
       "name": "deepsource",
       "fileNames": [".deepsource.toml"]
     },
@@ -3760,9 +3718,6 @@
     {
       "name": "taze",
       "fileNames": [".tazerc", ".tazerc.json"]
-    },
-    {
-      "name": "wxt"
     },
     {
       "name": "verse",
@@ -3848,9 +3803,6 @@
         "lint-staged.config.js",
         ".lintstagedrc.js"
       ]
-    },
-    {
-      "name": "histoire"
     },
     {
       "name": "installation",
