@@ -3977,6 +3977,8 @@
       "fileExtensions": ["ts"]
     }
   ],
+  "defaultFolder": "folder",
+  "defaultFolderOpen": "folder-open",
   "folderIcons": [
     {
       "name": "folder-rust",
