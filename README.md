@@ -13,5 +13,5 @@
   <a href="https://github.com/material-extensions/vscode-material-icon-theme"><img src="https://img.shields.io/github/stars/material-extensions/vscode-material-icon-theme?style=for-the-badge&label=Star%20on%20GitHub&colorA=263238&colorB=1976D2" alt="Star on GitHub"></a>
 </p>
 <p align="center">
-  <em>Enjoying Material Icon Theme? Support the project by starring it or becoming a sponsor!</em>
+  <em>Enjoying Material Icon Theme? Support the upstream project by starring it or becoming a sponsor!</em>
 </p>
