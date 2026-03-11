@@ -2347,10 +2347,6 @@
       "fileExtensions": ["wat", "wasm"]
     },
     {
-      "name": "semantic-release",
-      "light": true
-    },
-    {
       "name": "bitbucket",
       "fileNames": ["bitbucket-pipelines.yaml", "bitbucket-pipelines.yml"]
     },
