@@ -3,7 +3,7 @@
   "fileIcons": [
     {
       "name": "html",
-      "fileExtensions": ["htm", "xhtml", "html_vm", "asp"]
+      "fileExtensions": ["htm", "xhtml", "html_vm", "asp", "html"]
     },
     {
       "name": "pug",
@@ -250,7 +250,7 @@
     },
     {
       "name": "javascript",
-      "fileExtensions": ["esx", "mjs"]
+      "fileExtensions": ["esx", "mjs", "js", "cjs"]
     },
     {
       "name": "react",
