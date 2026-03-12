@@ -3975,6 +3975,599 @@
     {
       "name": "typescript",
       "fileExtensions": ["ts"]
+    },
+    {
+      "name": "markdoc-config",
+      "fileNames": [
+        "markdoc.config.js",
+        "markdoc.config.mjs",
+        "markdoc.config.cjs",
+        "markdoc.config.ts",
+        "markdoc.config.mts",
+        "markdoc.config.cts"
+      ]
+    },
+    {
+      "name": "latexmk",
+      "fileNames": [".latexmkrc", "latexmkrc"]
+    },
+    {
+      "name": "posthtml",
+      "fileNames": [
+        ".posthtmlrc",
+        ".posthtmlrc.json",
+        ".posthtmlrc.jsonc",
+        ".posthtmlrc.json5",
+        ".posthtmlrc.yaml",
+        ".posthtmlrc.yml",
+        ".posthtmlrc.toml",
+        ".posthtmlrc.js",
+        ".posthtmlrc.mjs",
+        ".posthtmlrc.cjs",
+        ".posthtmlrc.ts",
+        ".posthtmlrc.mts",
+        ".posthtmlrc.cts",
+        ".config/posthtmlrc",
+        ".config/posthtmlrc.json",
+        ".config/posthtmlrc.jsonc",
+        ".config/posthtmlrc.json5",
+        ".config/posthtmlrc.yaml",
+        ".config/posthtmlrc.yml",
+        ".config/posthtmlrc.toml",
+        ".config/posthtmlrc.js",
+        ".config/posthtmlrc.mjs",
+        ".config/posthtmlrc.cjs",
+        ".config/posthtmlrc.ts",
+        ".config/posthtmlrc.mts",
+        ".config/posthtmlrc.cts",
+        "posthtml.config.json",
+        "posthtml.config.jsonc",
+        "posthtml.config.json5",
+        "posthtml.config.yaml",
+        "posthtml.config.yml",
+        "posthtml.config.toml",
+        "posthtml.config.js",
+        "posthtml.config.mjs",
+        "posthtml.config.cjs",
+        "posthtml.config.ts",
+        "posthtml.config.mts",
+        "posthtml.config.cts"
+      ]
+    },
+    {
+      "name": "lynx",
+      "fileNames": [
+        "lynx.config.js",
+        "lynx.config.mjs",
+        "lynx.config.cjs",
+        "lynx.config.ts",
+        "lynx.config.mts",
+        "lynx.config.cts"
+      ]
+    },
+    {
+      "name": "semantic-release",
+      "fileNames": [
+        ".releaserc",
+        ".releaserc.json",
+        ".releaserc.jsonc",
+        ".releaserc.json5",
+        ".releaserc.yaml",
+        ".releaserc.yml",
+        ".releaserc.toml",
+        ".releaserc.js",
+        ".releaserc.mjs",
+        ".releaserc.cjs",
+        ".releaserc.ts",
+        ".releaserc.mts",
+        ".releaserc.cts",
+        ".config/releaserc",
+        ".config/releaserc.json",
+        ".config/releaserc.jsonc",
+        ".config/releaserc.json5",
+        ".config/releaserc.yaml",
+        ".config/releaserc.yml",
+        ".config/releaserc.toml",
+        ".config/releaserc.js",
+        ".config/releaserc.mjs",
+        ".config/releaserc.cjs",
+        ".config/releaserc.ts",
+        ".config/releaserc.mts",
+        ".config/releaserc.cts",
+        "release.config.json",
+        "release.config.jsonc",
+        "release.config.json5",
+        "release.config.yaml",
+        "release.config.yml",
+        "release.config.toml",
+        "release.config.js",
+        "release.config.mjs",
+        "release.config.cjs",
+        "release.config.ts",
+        "release.config.mts",
+        "release.config.cts"
+      ],
+      "light": true
+    },
+    {
+      "name": "husky",
+      "fileNames": [
+        ".huskyrc",
+        ".huskyrc.json",
+        ".huskyrc.jsonc",
+        ".huskyrc.json5",
+        ".huskyrc.yaml",
+        ".huskyrc.yml",
+        ".huskyrc.toml",
+        ".huskyrc.js",
+        ".huskyrc.mjs",
+        ".huskyrc.cjs",
+        ".huskyrc.ts",
+        ".huskyrc.mts",
+        ".huskyrc.cts",
+        ".config/huskyrc",
+        ".config/huskyrc.json",
+        ".config/huskyrc.jsonc",
+        ".config/huskyrc.json5",
+        ".config/huskyrc.yaml",
+        ".config/huskyrc.yml",
+        ".config/huskyrc.toml",
+        ".config/huskyrc.js",
+        ".config/huskyrc.mjs",
+        ".config/huskyrc.cjs",
+        ".config/huskyrc.ts",
+        ".config/huskyrc.mts",
+        ".config/huskyrc.cts",
+        "husky.config.json",
+        "husky.config.jsonc",
+        "husky.config.json5",
+        "husky.config.yaml",
+        "husky.config.yml",
+        "husky.config.toml",
+        "husky.config.js",
+        "husky.config.mjs",
+        "husky.config.cjs",
+        "husky.config.ts",
+        "husky.config.mts",
+        "husky.config.cts"
+      ]
+    },
+    {
+      "name": "vite",
+      "fileNames": [
+        "vite.config.js",
+        "vite.config.mjs",
+        "vite.config.cjs",
+        "vite.config.ts",
+        "vite.config.mts",
+        "vite.config.cts"
+      ]
+    },
+    {
+      "name": "vitest",
+      "fileNames": [
+        "vitest.workspace.js",
+        "vitest.workspace.mjs",
+        "vitest.workspace.cjs",
+        "vitest.workspace.ts",
+        "vitest.workspace.mts",
+        "vitest.workspace.cts",
+        "vitest.config.js",
+        "vitest.config.mjs",
+        "vitest.config.cjs",
+        "vitest.config.ts",
+        "vitest.config.mts",
+        "vitest.config.cts",
+        "vitest.unit.config.js",
+        "vitest.unit.config.mjs",
+        "vitest.unit.config.cjs",
+        "vitest.unit.config.ts",
+        "vitest.unit.config.mts",
+        "vitest.unit.config.cts",
+        "vitest.e2e.config.js",
+        "vitest.e2e.config.mjs",
+        "vitest.e2e.config.cjs",
+        "vitest.e2e.config.ts",
+        "vitest.e2e.config.mts",
+        "vitest.e2e.config.cts"
+      ]
+    },
+    {
+      "name": "velite",
+      "fileNames": [
+        "velite.config.js",
+        "velite.config.mjs",
+        "velite.config.cjs",
+        "velite.config.ts",
+        "velite.config.mts",
+        "velite.config.cts"
+      ]
+    },
+    {
+      "name": "contentlayer",
+      "fileNames": [
+        "contentlayer.config.js",
+        "contentlayer.config.mjs",
+        "contentlayer.config.cjs",
+        "contentlayer.config.ts",
+        "contentlayer.config.mts",
+        "contentlayer.config.cts"
+      ]
+    },
+    {
+      "name": "svgr",
+      "fileNames": [
+        ".svgrrc",
+        ".svgrrc.json",
+        ".svgrrc.jsonc",
+        ".svgrrc.json5",
+        ".svgrrc.yaml",
+        ".svgrrc.yml",
+        ".svgrrc.toml",
+        ".svgrrc.js",
+        ".svgrrc.mjs",
+        ".svgrrc.cjs",
+        ".svgrrc.ts",
+        ".svgrrc.mts",
+        ".svgrrc.cts",
+        ".config/svgrrc",
+        ".config/svgrrc.json",
+        ".config/svgrrc.jsonc",
+        ".config/svgrrc.json5",
+        ".config/svgrrc.yaml",
+        ".config/svgrrc.yml",
+        ".config/svgrrc.toml",
+        ".config/svgrrc.js",
+        ".config/svgrrc.mjs",
+        ".config/svgrrc.cjs",
+        ".config/svgrrc.ts",
+        ".config/svgrrc.mts",
+        ".config/svgrrc.cts",
+        "svgr.config.json",
+        "svgr.config.jsonc",
+        "svgr.config.json5",
+        "svgr.config.yaml",
+        "svgr.config.yml",
+        "svgr.config.toml",
+        "svgr.config.js",
+        "svgr.config.mjs",
+        "svgr.config.cjs",
+        "svgr.config.ts",
+        "svgr.config.mts",
+        "svgr.config.cts"
+      ]
+    },
+    {
+      "name": "craco",
+      "fileNames": [
+        ".cracorc",
+        ".cracorc.json",
+        ".cracorc.jsonc",
+        ".cracorc.json5",
+        ".cracorc.yaml",
+        ".cracorc.yml",
+        ".cracorc.toml",
+        ".cracorc.js",
+        ".cracorc.mjs",
+        ".cracorc.cjs",
+        ".cracorc.ts",
+        ".cracorc.mts",
+        ".cracorc.cts",
+        ".config/cracorc",
+        ".config/cracorc.json",
+        ".config/cracorc.jsonc",
+        ".config/cracorc.json5",
+        ".config/cracorc.yaml",
+        ".config/cracorc.yml",
+        ".config/cracorc.toml",
+        ".config/cracorc.js",
+        ".config/cracorc.mjs",
+        ".config/cracorc.cjs",
+        ".config/cracorc.ts",
+        ".config/cracorc.mts",
+        ".config/cracorc.cts",
+        "craco.config.json",
+        "craco.config.jsonc",
+        "craco.config.json5",
+        "craco.config.yaml",
+        "craco.config.yml",
+        "craco.config.toml",
+        "craco.config.js",
+        "craco.config.mjs",
+        "craco.config.cjs",
+        "craco.config.ts",
+        "craco.config.mts",
+        "craco.config.cts"
+      ]
+    },
+    {
+      "name": "syncpack",
+      "fileNames": [
+        ".syncpackrc",
+        ".syncpackrc.json",
+        ".syncpackrc.jsonc",
+        ".syncpackrc.json5",
+        ".syncpackrc.yaml",
+        ".syncpackrc.yml",
+        ".syncpackrc.toml",
+        ".syncpackrc.js",
+        ".syncpackrc.mjs",
+        ".syncpackrc.cjs",
+        ".syncpackrc.ts",
+        ".syncpackrc.mts",
+        ".syncpackrc.cts",
+        ".config/syncpackrc",
+        ".config/syncpackrc.json",
+        ".config/syncpackrc.jsonc",
+        ".config/syncpackrc.json5",
+        ".config/syncpackrc.yaml",
+        ".config/syncpackrc.yml",
+        ".config/syncpackrc.toml",
+        ".config/syncpackrc.js",
+        ".config/syncpackrc.mjs",
+        ".config/syncpackrc.cjs",
+        ".config/syncpackrc.ts",
+        ".config/syncpackrc.mts",
+        ".config/syncpackrc.cts",
+        "syncpack.config.json",
+        "syncpack.config.jsonc",
+        "syncpack.config.json5",
+        "syncpack.config.yaml",
+        "syncpack.config.yml",
+        "syncpack.config.toml",
+        "syncpack.config.js",
+        "syncpack.config.mjs",
+        "syncpack.config.cjs",
+        "syncpack.config.ts",
+        "syncpack.config.mts",
+        "syncpack.config.cts"
+      ]
+    },
+    {
+      "name": "panda",
+      "fileNames": [
+        "panda.config.js",
+        "panda.config.mjs",
+        "panda.config.cjs",
+        "panda.config.ts",
+        "panda.config.mts",
+        "panda.config.cts"
+      ]
+    },
+    {
+      "name": "esbuild",
+      "fileNames": [
+        "esbuild.js",
+        "esbuild.mjs",
+        "esbuild.cjs",
+        "esbuild.ts",
+        "esbuild.mts",
+        "esbuild.cts",
+        "esbuild.config.js",
+        "esbuild.config.mjs",
+        "esbuild.config.cjs",
+        "esbuild.config.ts",
+        "esbuild.config.mts",
+        "esbuild.config.cts",
+        "esbuild.dev.js",
+        "esbuild.dev.mjs",
+        "esbuild.dev.cjs",
+        "esbuild.dev.ts",
+        "esbuild.dev.mts",
+        "esbuild.dev.cts",
+        "esbuild.stage.js",
+        "esbuild.stage.mjs",
+        "esbuild.stage.cjs",
+        "esbuild.stage.ts",
+        "esbuild.stage.mts",
+        "esbuild.stage.cts",
+        "esbuild.prod.js",
+        "esbuild.prod.mjs",
+        "esbuild.prod.cjs",
+        "esbuild.prod.ts",
+        "esbuild.prod.mts",
+        "esbuild.prod.cts",
+        "esbuild.test.js",
+        "esbuild.test.mjs",
+        "esbuild.test.cjs",
+        "esbuild.test.ts",
+        "esbuild.test.mts",
+        "esbuild.test.cts"
+      ]
+    },
+    {
+      "name": "puppeteer",
+      "fileNames": [
+        ".puppeteerrc",
+        ".puppeteerrc.json",
+        ".puppeteerrc.jsonc",
+        ".puppeteerrc.json5",
+        ".puppeteerrc.yaml",
+        ".puppeteerrc.yml",
+        ".puppeteerrc.toml",
+        ".puppeteerrc.js",
+        ".puppeteerrc.mjs",
+        ".puppeteerrc.cjs",
+        ".puppeteerrc.ts",
+        ".puppeteerrc.mts",
+        ".puppeteerrc.cts",
+        ".config/puppeteerrc",
+        ".config/puppeteerrc.json",
+        ".config/puppeteerrc.jsonc",
+        ".config/puppeteerrc.json5",
+        ".config/puppeteerrc.yaml",
+        ".config/puppeteerrc.yml",
+        ".config/puppeteerrc.toml",
+        ".config/puppeteerrc.js",
+        ".config/puppeteerrc.mjs",
+        ".config/puppeteerrc.cjs",
+        ".config/puppeteerrc.ts",
+        ".config/puppeteerrc.mts",
+        ".config/puppeteerrc.cts",
+        "puppeteer.config.json",
+        "puppeteer.config.jsonc",
+        "puppeteer.config.json5",
+        "puppeteer.config.yaml",
+        "puppeteer.config.yml",
+        "puppeteer.config.toml",
+        "puppeteer.config.js",
+        "puppeteer.config.mjs",
+        "puppeteer.config.cjs",
+        "puppeteer.config.ts",
+        "puppeteer.config.mts",
+        "puppeteer.config.cts"
+      ]
+    },
+    {
+      "name": "trigger",
+      "fileNames": [
+        "trigger.config.js",
+        "trigger.config.mjs",
+        "trigger.config.cjs",
+        "trigger.config.ts",
+        "trigger.config.mts",
+        "trigger.config.cts"
+      ]
+    },
+    {
+      "name": "wxt",
+      "fileNames": [
+        "wxt.config.js",
+        "wxt.config.mjs",
+        "wxt.config.cjs",
+        "wxt.config.ts",
+        "wxt.config.mts",
+        "wxt.config.cts"
+      ]
+    },
+    {
+      "name": "histoire",
+      "fileNames": [
+        "histoire.config.js",
+        "histoire.config.mjs",
+        "histoire.config.cjs",
+        "histoire.config.ts",
+        "histoire.config.mts",
+        "histoire.config.cts",
+        ".histoire.js",
+        ".histoire.mjs",
+        ".histoire.cjs",
+        ".histoire.ts",
+        ".histoire.mts",
+        ".histoire.cts"
+      ]
+    },
+    {
+      "name": "umi",
+      "fileNames": [
+        ".umirc.js",
+        ".umirc.mjs",
+        ".umirc.cjs",
+        ".umirc.ts",
+        ".umirc.mts",
+        ".umirc.cts"
+      ]
+    },
+    {
+      "name": "pm2-ecosystem",
+      "fileNames": [
+        "ecosystem.config.js",
+        "ecosystem.config.mjs",
+        "ecosystem.config.cjs",
+        "ecosystem.config.ts",
+        "ecosystem.config.mts",
+        "ecosystem.config.cts"
+      ]
+    },
+    {
+      "name": "hadolint",
+      "fileNames": [
+        ".hadolint.yaml",
+        ".hadolint.yml",
+        "hadolint.yaml",
+        "hadolint.yml"
+      ]
+    },
+    {
+      "name": "bashly",
+      "fileNames": ["src/bashly.yaml", "src/bashly.yml"]
+    },
+    {
+      "name": "bashly-hook",
+      "fileNames": ["src/initialize.sh", "src/before.sh", "src/after.sh"]
+    },
+    {
+      "name": "shellcheck",
+      "fileNames": [".shellcheckrc", "shellcheckrc"],
+      "light": true
+    },
+    {
+      "name": "diff",
+      "fileExtensions": ["diff", "patch"]
+    },
+    {
+      "name": "matlab",
+      "fileExtensions": ["mlx", "mlapp", "mltbx"]
+    },
+    {
+      "name": "objective-c",
+      "fileExtensions": ["m"]
+    },
+    {
+      "name": "objective-cpp",
+      "fileExtensions": ["mm"]
+    },
+    {
+      "name": "php",
+      "fileExtensions": ["php", "phtml"]
+    },
+    {
+      "name": "php_elephant",
+      "fileExtensions": ["php"]
+    },
+    {
+      "name": "php_elephant_pink",
+      "fileExtensions": ["php"]
+    },
+    {
+      "name": "go_gopher",
+      "fileExtensions": ["go"]
+    },
+    {
+      "name": "nodejs_alt",
+      "fileNames": ["server.js", "app.js"]
+    },
+    {
+      "name": "silverstripe",
+      "fileExtensions": ["ss"]
+    },
+    {
+      "name": "salesforce",
+      "fileExtensions": ["cls", "apex"]
+    },
+    {
+      "name": "tex",
+      "fileExtensions": ["tex", "sty", "dtx", "ltx"]
+    },
+    {
+      "name": "systemd",
+      "fileExtensions": [
+        "service",
+        "socket",
+        "device",
+        "mount",
+        "automount",
+        "swap",
+        "target",
+        "timer",
+        "slice",
+        "scope"
+      ],
+      "light": true
+    },
+    {
+      "name": "github-actions-workflow",
+      "fileExtensions": ["action.yml", "action.yaml"]
     }
   ],
   "defaultFolder": "folder",
